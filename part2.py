@@ -1,6 +1,5 @@
 """
-Reproducing tutorial blogpost by Andrej Karpathy:
-https://karpathy.github.io/2021/06/21/blockchain/
+Sending some money from 1 wallet to another: transaction with 1 input and 2 outputs
 """
 
 import random

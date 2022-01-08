@@ -1,11 +1,11 @@
 """
-Un-stealing bitcoins (sending everything to Karpathy
+Anrej got all his Bitcoin already stolen, so un-stealing bitcoins instead: 
+sending him more money
 """
 
 import random
-from pprint import pprint
 
-from bitcoin.identity import create_identity, Identity, PublicKey
+from bitcoin.identity import Identity, PublicKey
 from bitcoin.sha256 import sha256
 from bitcoin.signature import sign
 from bitcoin.transaction import Tx, TxIn, TxOut, Script, Net

@@ -1,5 +1,5 @@
 """
-Play with curves, secret and public keys, and wallet address generation
+Playing with curves, secret and public keys, and wallet address generation
 """
 
 # secp256k1 uses a = 0, b = 7, so we're dealing with the curve y^2 = x^3 + 7 (mod p)

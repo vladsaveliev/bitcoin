@@ -1,5 +1,5 @@
 """
-Putting it all together: One more consolidating transaction
+Transaction with 2 inputs and 1 output
 """
 
 import random
